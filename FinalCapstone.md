@@ -33,7 +33,8 @@ For my code reference, please visit:
 
 https://github.com/johanalva/Capstone
 
-Application deployed is here: https://scotturbinamoreira93.shinyapps.io/Capstone_Final/
+Application deployed is here: 
+https://johnalva.shinyapps.io/capstone/
 
 
 
