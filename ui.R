@@ -29,3 +29,11 @@ shinyUI(fluidPage(
     )
   )
 ))
+
+
+rsconnect::setAccountInfo(name='johnalva',
+                         token='C9A11F8D139F4B086FB885E18AD5CACD',
+                         secret='GNh6D6K0r+cdKSaKjDehpljHCwpHj8rS++sl+X8d')
+
+rsconnect::deployApp("C:/Users/johnalva/Box Sync/My Documents/R/Cap/CapstoneFinal/Capstone")
+
